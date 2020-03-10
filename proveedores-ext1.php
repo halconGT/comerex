@@ -1,5 +1,11 @@
-<?php 
-echo 'Hello World!';
+<html>
+ <head>
+  <title>comerex NET</title>
+  </head>
+  
+  <body>
+  <?php
+  echo 'Hello World!';
 
 ?>
 
@@ -29,3 +35,4 @@ BANGUAT
   
 ¿cómo comprar en el extranjero?
   ¿cómo comprar en el extranjero?
+  </body>
